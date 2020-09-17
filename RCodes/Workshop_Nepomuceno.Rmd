@@ -466,4 +466,8 @@ N50.male <-  6000922
 
                                   
 ```
-                                  
+    
+    
+## 7 Acknowledgement                              
+
+I thank Cassio Turra, Ugofilippo Basellini, and Tim Riffe for the collaborations. They were great collaborators in both projects presented here.
